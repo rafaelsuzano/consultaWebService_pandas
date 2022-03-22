@@ -1,5 +1,3 @@
-#http://www.bosontreinamentos.com.br/programacao-em-python/como-criar-graficos-com-matplotlib-em-python/#:~:text=Gr%C3%A1ficos%20com%20matplotlib%20em%20Python%20O%20matplotlib%20%C3%A9,formatos%20e%20tamb%C3%A9m%20ambientes%20interativos%2C%20em%20in%C3%BAmeras%20plataformas.
-
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 import xml.etree.ElementTree as ET
