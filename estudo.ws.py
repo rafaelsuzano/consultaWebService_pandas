@@ -21,10 +21,10 @@ datas =  []
 fm= "Dolar (venda)"
     
 
-def RetornaDados():
+def RetornaDados(qtd_dias):
     
     df=pd.DataFrame({'Moeda':[],'Data':[],'Valor':[]})
-    for i in range(10):
+    for i in range(qtd_dias):
         try:
             x= dataB = date.today() - timedelta(days=i)
             data=(x.strftime("%d/%m/%Y") )
