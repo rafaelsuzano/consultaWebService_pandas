@@ -36,8 +36,10 @@
 
     Funções:
         
-       * RetornaDados(qtd_dias) -> Dados de entrada(qtd_dias = quantidade de dias) para consultar, Retorna o dataframe .
-       * Filtro(fm,dados) -> Dados de entrada (fm = Filtro Moeda "Dolar (venda)"), retorna o dataframe filtrando por moeda.
+       * RetornaDados(qtd_dias) -> Dados de entrada(qtd_dias = quantidade de dias) para consultar, 
+                                    retorna o dataframe .
+       * Filtro(fm,dados) -> Dados de entrada (fm = Filtro Moeda "Dolar (venda)"), 
+                                    retorna o dataframe filtrando por moeda.
        * GeraGrafico(dados_Filtro) -> Gera o gráfico de acordo com filtro da função  Filtro
     
     Execução:
