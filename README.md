@@ -48,8 +48,6 @@
        python estudo.ws.py
 
      Resultado: 
-      
-     ![image](https://user-images.githubusercontent.com/25907317/159492629-33332752-06f4-4df0-8cee-39846502827b.png)
 
 
     
