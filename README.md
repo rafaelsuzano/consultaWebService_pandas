@@ -28,8 +28,7 @@
 
      Resultado: 
       
-     ![image](https://user-images.githubusercontent.com/25907317/159491685-564da480-d18b-40ac-a6fe-ca49f72478be.png)
-
+     
 
     
     
