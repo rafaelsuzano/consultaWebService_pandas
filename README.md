@@ -8,7 +8,6 @@
        * Filtro no dataframe
        * Gera Gráfico
 
-
     Dados de Acesso WebService:
 
        * moeda = 1,"Dolar (venda)",
@@ -32,10 +31,8 @@
                 21635,"Dolar Canadense (venda)",
                 21636,"Dolar Canadense (compra)"
        
-       
         * wsdl: https://www3.bcb.gov.br/sgspub/JSP/sgsgeral/FachadaWSSGS.wsdl
         * endpoint: getValor(moedas,data)
-    
 
     Funções:
         
@@ -46,10 +43,5 @@
     Execução:
        
        python estudo.ws.py
-
-     Resultado: 
-
-    ![Capture](https://user-images.githubusercontent.com/25907317/159492948-ef1a1d7f-978e-45db-9fcc-1997d5280c26.PNG)
-
     
     
