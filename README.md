@@ -46,4 +46,6 @@
        
        python estudo.ws.py
     
-    
+    Referência: 
+        https://pandas.pydata.org/pandas-docs/stable/index.html
+        https://dadosabertos.bcb.gov.br/dataset/20740-taxa-media-de-juros-das-operacoes-de-credito-com-recursos-livres---pessoas-fisicas---total/resource/c5b4c37b-10f6-4d5f-8e84-b9e8ff56e9ff
