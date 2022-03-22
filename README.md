@@ -17,7 +17,7 @@ Dados de Acesso WebService:
     
 
 Funções:
-    RetornaDados() -> Retorna o dataframe
+    RetornaDados(qtd_dias) -> Dados de entrada(qtd_dias = quantidade de dias) para consultar, Retorna o dataframe .
     Filtro(fm,dados) -> Dados de entrada (fm = Filtro Moeda "Dolar (venda)"), retorna o dataframe filtrando por moeda.
     GeraGrafico(dados_Filtro) -> Gera o gráfico de acordo com filtro da função  Filtro
     
