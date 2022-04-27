@@ -7,7 +7,6 @@ import sys
 from datetime import date,timedelta
 import pandas as pd
 from pylab import plot, show,title,xlabel, ylabel
-qtd_dias = 15
 
 
 wsdl="https://www3.bcb.gov.br/sgspub/JSP/sgsgeral/FachadaWSSGS.wsdl"
@@ -62,6 +61,6 @@ def GeraGrafico(dados):
     show()  
 
 
-dados=RetornaDados()  
+dados=RetornaDados(15)  
 dados_Filtro=Filtro(fm,dados)
 GeraGrafico(dados_Filtro)
